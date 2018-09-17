@@ -4,6 +4,9 @@ description: Public site to host info related to biomodels repo
 layout: page
 ---
 
+## Overview
+Simple website to display modelling projects developed in the [biomodels](https://github.com/mattsmart/biomodels) repo
+
 ## Site map
 - [homepage](https://mattsmart.github.io/)
 - [pages/A](https://mattsmart.github.io/pages/A)
