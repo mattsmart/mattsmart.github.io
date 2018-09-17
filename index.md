@@ -1,6 +1,6 @@
 ---
 title: biomodels
-description: Public site to host info related to biomodels repo
+description: Public site to host info related to the biomodels repo
 layout: page
 ---
 
