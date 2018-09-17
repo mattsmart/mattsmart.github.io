@@ -1,5 +1,5 @@
 ---
-title: mattsmart.github.io
+title: biomodels
 description: Public site to host info related to biomodels repo
 layout: page
 ---
