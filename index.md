@@ -9,6 +9,6 @@ Simple website to display modelling projects developed in [mattsmart/biomodels](
 
 ## Site map
 - [homepage](https://mattsmart.github.io/)
-- [pages/A](https://mattsmart.github.io/pages/A)
-- [pages/B](https://mattsmart.github.io/pages/B)
+- [pages/placeholder_A](https://mattsmart.github.io/pages/placeholder_A)
+- [pages/placeholder_B](https://mattsmart.github.io/pages/placeholder_B)
 - [pages/tutorial](https://mattsmart.github.io/pages/tutorial)
