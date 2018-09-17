@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Overview
-Simple website to display modelling projects developed in the [biomodels](https://github.com/mattsmart/biomodels) repo
+Simple website to display modelling projects developed in [mattsmart/biomodels](https://github.com/mattsmart/biomodels)
 
 ## Site map
 - [homepage](https://mattsmart.github.io/)
